@@ -43,9 +43,6 @@ I also configured the **bucket policy** for public read access and set up **prop
 2. Click **Upload** → **Add files** and select your website files (`index.html`, `style.css`, etc.).
 3. Click **Upload**.
 
-**📸 Screenshot:**
-![S3 Upload Files](images/s3-upload.png)
-
 ---
 
 ### 🌐 Step 3: Enable Static Website Hosting
@@ -88,8 +85,6 @@ You’ll now see a **Website endpoint URL** (e.g. `http://my-static-website-demo
 
 3. Save changes.
 
-**📸 Screenshot:**
-![S3 Bucket Policy](images/s3-policy.png)
 
 ---
 
